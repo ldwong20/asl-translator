@@ -1,4 +1,5 @@
 data/train
 data/val
 data/test
-*.DS_Store
+.DS_Store
+**/.DS_Store
