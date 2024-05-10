@@ -10,7 +10,7 @@ Simply run all the cells of the `gan_trained.ipynb` to train and evaluate the GA
 
 # Testing
 ## Fingerspelling -> English
-Run `translte.ipynb` to trigger our live-webcam demo of Fingerspelling -> English translation.
+Run `translate.ipynb` to trigger our live-webcam demo of Fingerspelling -> English translation.
 
 ## English -> Fingerspelling
 Simply run all the cells of the `gan_trained.ipynb` to train and evaluate the GANs.
